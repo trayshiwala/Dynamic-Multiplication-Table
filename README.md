@@ -2,4 +2,6 @@
 
 # GitHub Pages URL
 
-a. https://trayshiwala.github.io/Dynamic-Multiplication-Table/
+a. Application GitHub URL: https://trayshiwala.github.io/Dynamic-Multiplication-Table/
+
+b. Link to GitHub repository: https://github.com/trayshiwala/Dynamic-Multiplication-Table
